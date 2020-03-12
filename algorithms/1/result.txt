@@ -1,0 +1,56 @@
+************ A ************
+------ 10000  Number ------
+insertionSort:  6.296583890914917
+selectionSort:  6.313685178756714
+bubbleSort:  14.016958713531494
+mergeSort:  0.06583189964294434
+quickSort:  0.03789710998535156
+------ 20000  Number ------
+insertionSort:  26.281445026397705
+selectionSort:  27.426585912704468
+bubbleSort:  58.84139108657837
+mergeSort:  0.20300817489624023
+quickSort:  0.11783027648925781
+------ 30000  Number ------
+insertionSort:  60.93053317070007
+selectionSort:  60.78995490074158
+bubbleSort:  137.78754925727844
+mergeSort:  0.18923139572143555
+quickSort:  0.12673473358154297
+***************************
+
+************ B ************
+------ 10000  Number ------
+insertionSort:  0.0019488334655761719
+selectionSort:  6.532268762588501
+bubbleSort:  7.1634521484375
+mergeSort:  0.060836076736450195
+------ 20000  Number ------
+insertionSort:  0.005983829498291016
+selectionSort:  26.620321035385132
+bubbleSort:  29.459216117858887
+mergeSort:  0.09877467155456543
+------ 30000  Number ------
+insertionSort:  0.007978439331054688
+selectionSort:  55.71630525588989
+bubbleSort:  67.41750502586365
+mergeSort:  0.19791078567504883
+***************************
+
+************ C ************
+------ 10000  Number ------
+insertionSort:  14.112621545791626
+selectionSort:  7.529712200164795
+bubbleSort:  20.38035225868225
+mergeSort:  0.04687047004699707
+------ 20000  Number ------
+insertionSort:  46.873124837875366s
+electionSort:  25.801961183547974
+bubbleSort:  75.57601261138916
+mergeSort:  0.09643220901489258
+------ 30000  Number ------
+insertionSort:  112.95271682739258
+selectionSort:  59.444042444229126
+bubbleSort:  174.61104607582092
+mergeSort:  0.24705171585083008
+***************************
