@@ -139,7 +139,7 @@ void log_save(int m_sec,int key){
   }
 
   FILE *log_file;
-  log_file = fopen ("oyun_181220066.txt","a+");
+  log_file = fopen ("log.txt","a+");
 
   if (log_file==NULL)
   {
