@@ -1,2 +1,2 @@
 # ktun.lib
-some notes
+some note
