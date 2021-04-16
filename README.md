@@ -1,2 +1,2 @@
 # ktun.lib
-files about konya technical university
+some notes
